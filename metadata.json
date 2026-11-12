@@ -1,0 +1,6 @@
+{
+  "name": "Short-Term Prediction of Stack Emissions for Early Operational Warning",
+  "description": "Engineering forecasting prototype for coal-fired power plant stack emissions (NOx, SO2, PM), baseline comparisons, warning lead-time analysis, and CEMS data validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
